@@ -22,7 +22,7 @@ const SignUp = ()=>{
             return false;
         }
         const res = await fetch('https://roomorent.herokuapp.com/insertNewUser',{
-            method:'get',
+            method:'POST',
             headers: {
                 "Content-Type": "application/json",
             },
