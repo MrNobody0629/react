@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d21c19ac.css",
-    "main.js": "/static/js/main.3dd6b0d7.js",
-    "static/js/787.db9b214f.chunk.js": "/static/js/787.db9b214f.chunk.js",
-    "static/media/info-bg.jpg": "/static/media/info-bg.a860aca3823d0aaab3d3.jpg",
-    "static/media/house5.jpg": "/static/media/house5.6961b7265ccc6b5bf55a.jpg",
-    "static/media/house1.jpg": "/static/media/house1.177d7bc599853f81826b.jpg",
-    "static/media/house2.jpg": "/static/media/house2.177d7bc599853f81826b.jpg",
-    "static/media/house4.jpg": "/static/media/house4.287c75d73d2f6a025965.jpg",
-    "static/media/house3.jpg": "/static/media/house3.038deb4b53acf88ce238.jpg",
-    "index.html": "/index.html",
-    "main.d21c19ac.css.map": "/static/css/main.d21c19ac.css.map",
-    "main.3dd6b0d7.js.map": "/static/js/main.3dd6b0d7.js.map",
-    "787.db9b214f.chunk.js.map": "/static/js/787.db9b214f.chunk.js.map"
+    "main.css": "/react/static/css/main.e9f5603a.css",
+    "main.js": "/react/static/js/main.b97bebf0.js",
+    "static/js/787.db9b214f.chunk.js": "/react/static/js/787.db9b214f.chunk.js",
+    "static/media/info-bg.jpg": "/react/static/media/info-bg.a860aca3823d0aaab3d3.jpg",
+    "static/media/house5.jpg": "/react/static/media/house5.6961b7265ccc6b5bf55a.jpg",
+    "static/media/house1.jpg": "/react/static/media/house1.177d7bc599853f81826b.jpg",
+    "static/media/house2.jpg": "/react/static/media/house2.177d7bc599853f81826b.jpg",
+    "static/media/house4.jpg": "/react/static/media/house4.287c75d73d2f6a025965.jpg",
+    "static/media/house3.jpg": "/react/static/media/house3.038deb4b53acf88ce238.jpg",
+    "index.html": "/react/index.html",
+    "main.e9f5603a.css.map": "/react/static/css/main.e9f5603a.css.map",
+    "main.b97bebf0.js.map": "/react/static/js/main.b97bebf0.js.map",
+    "787.db9b214f.chunk.js.map": "/react/static/js/787.db9b214f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d21c19ac.css",
-    "static/js/main.3dd6b0d7.js"
+    "static/css/main.e9f5603a.css",
+    "static/js/main.b97bebf0.js"
   ]
 }
