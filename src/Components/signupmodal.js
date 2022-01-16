@@ -21,7 +21,7 @@ const SignUp = ()=>{
             },10000)
             return false;
         }
-        const res = await fetch('http://localhost:3001/insertNewUser',{
+        const res = await fetch('https://roomorent.herokuapp.com/insertNewUser',{
             method:'POST',
             headers: {
                 "Content-Type": "application/json",
