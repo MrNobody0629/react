@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './Components/Navbar';
+// import {BrowserRouter,Routes,Route} from "react-router-dom";
+import Home from './Components/Home';
+import CardContainer from './Components/CardContainer';
+import AboutUs from './Components/AboutUs';
+import Services from './Components/Services';
+import LogIn from './Components/logimodal';
+import SignUp from './Components/signupmodal';
+import Addpost from './Components/addPost';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar/>
+      <Home/>
+      <CardContainer/>
+      <AboutUs/>
+      <Services/>
+      <LogIn/>
+      <SignUp/>
+      <Addpost/>
+    </>
   );
 }
 
