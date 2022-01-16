@@ -9,7 +9,7 @@ const LogIn = ()=>{
 
     const SignIn = async (e)=>{
         e.preventDefault();
-        const res = await fetch('http://localhost:3001/signin',{
+        const res = await fetch('https://roomorent.herokuapp.com/signin',{
             method:'POST',
             headers: {
                 "Content-Type": "application/json",
